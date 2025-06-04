@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+motor
+google-auth
+python-dotenv
